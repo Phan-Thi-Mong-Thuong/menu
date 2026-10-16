@@ -1,0 +1,15 @@
+HƯỚNG DẪN MỞ SÁCH LẬT
+
+Chào bạn, mình đã đóng gói sẵn mọi thứ cho bạn. Bạn làm theo các bước sau nhé:
+
+1. Giải nén tệp .zip này ra máy tính. Bạn sẽ thấy 3 file:
+   - menu.pdf (Đây chính là file menu của bạn, mình đã đổi tên cho ngắn gọn để code dễ đọc).
+   - index.html (File trang web hiển thị sách lật).
+   - Huong_dan.txt (File này).
+
+2. LƯU Ý KHI XEM:
+   - Giống như mình đã giải thích, do tính năng bảo mật của các trình duyệt web, bạn sẽ KHÔNG THỂ xem sách bằng cách click đúp trực tiếp vào file index.html (màn hình sẽ bị xám).
+   - ĐỂ XEM ĐƯỢC: Bạn hãy tải toàn bộ 2 file (index.html và menu.pdf) lên GitHub Pages hoặc hosting của bạn.
+   - Khi có đường link mạng, cuốn sách sẽ tự động hiện lên mượt mà với hiệu ứng 3D và tiếng lật giấy!
+
+Chúc bạn thành công!
